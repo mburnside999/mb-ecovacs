@@ -176,3 +176,4 @@ GNU GENERAL PUBLIC LICENSE
 
 Copyright (c) 2021 Sascha Hölzel <mrb1232@posteo.de>
 # mb-ecovacs
+# mb-ecovacs
